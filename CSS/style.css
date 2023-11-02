@@ -10,4 +10,7 @@ body {
 .container {
     background-color: #820Ad1;
     padding: 1rem;
+    border-radius: 10px;
+    width: 15em;
+    height: 25em;
 }
