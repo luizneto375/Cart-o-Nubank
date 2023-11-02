@@ -13,5 +13,8 @@
 
 <img width="264" alt="image" src="https://github.com/luizneto375/Cart-o-Nubank/assets/114784434/3e70a7ce-6796-4de6-91d2-9a78523e9776">
 
+<img width="271" alt="image" src="https://github.com/luizneto375/Cart-o-Nubank/assets/114784434/2561428f-5d44-43c3-b47c-dd0236c0038b">
+
+
 
 
