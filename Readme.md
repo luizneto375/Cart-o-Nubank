@@ -10,3 +10,5 @@
  - Seguinte depois de add um evento, vamos criar um metodo, e passar para uma função, que vai rebeber um evento comm parametro, agora teremos que pegar saber informações de largura e altura do card, o ponto central, e as posições e as coordenadas do mouse, para em seguida poder fazer as animações de acordo com essas posições do mouse .
 
 - Pegar largura do cartão, vou criar uma variavel, seguida pego a variavel do card, e passo um metodo, para poder ter a largura certa, com esse metodo agora quando eu passar o mouse por cima do card, vou ter a posição certa da largura do card.
+
+
