@@ -11,4 +11,5 @@
 
 -- Pegar largura do cartão, vou criar uma variavel, seguida pego a variavel do card, e passo um metodo, para poder ter a largura certa, com esse metodo agora quando eu passar o mouse por cima do card, vou ter a posição certa da largura do card.
 
+- dessa mesma forma pegamos a sua altura, tudo em px 
 

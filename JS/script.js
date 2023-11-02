@@ -4,5 +4,7 @@ card.addEventListener("mousemove", cardMovimneto);
 
 function cardMovimneto() {
     const cardWidth = card.offsetWidth;
-    document.querySelector("h2").innerHTML = cardWidth;
+    const cardHeight = card.offsetHeight;
+    document.querySelector("h2").innerHTML = cardHeight;
+    
 }
