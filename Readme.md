@@ -21,4 +21,4 @@
 - vamos pegar o centro do cartão, mas referente a página toda, da mesma forma com o metodo
 - <img width="257" alt="image" src="https://github.com/luizneto375/Cart-o-Nubank/assets/114784434/31a8a0dc-6d76-4bbe-aed0-190856bb91d9">
 
-
+OBS: pegamos essas posições para podermos fazer a nossa animação que vai ser, basicamente feito em torno do eixo central 
