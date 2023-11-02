@@ -18,4 +18,5 @@
 
 
 
+- vamos pegar o centro do cartão, mas referente a página toda, da mesma forma com o metodo
 
