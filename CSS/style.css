@@ -15,3 +15,16 @@ body {
     height: 25em;
     box-shadow: 5px 8px 8px #000;
 }
+
+img[alt=mastercard] {
+    width: 30%;
+}
+
+img[alt=chip] {
+    width: 40%;
+    transform: rotate(90deg);
+}
+
+.footer img {
+    width: 35%;
+}
