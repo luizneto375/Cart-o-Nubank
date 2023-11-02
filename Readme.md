@@ -11,5 +11,11 @@
 
 -- Pegar largura do cartão, vou criar uma variavel, seguida pego a variavel do card, e passo um metodo, para poder ter a largura certa, com esse metodo agora quando eu passar o mouse por cima do card, vou ter a posição certa da largura do card.
 
+<<<<<<< HEAD
 - dessa mesma forma pegamos a sua altura, tudo em px 
+=======
+<img width="264" alt="image" src="https://github.com/luizneto375/Cart-o-Nubank/assets/114784434/3e70a7ce-6796-4de6-91d2-9a78523e9776">
+
+
+>>>>>>> 46bd88d550ec1e72a66da2895ce3ca9b3e1447f5
 
