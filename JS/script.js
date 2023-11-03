@@ -23,13 +23,13 @@ function cardMovimneto(event) {
     document.querySelector("#eixoY").innerHTML = "Posição do eixo Y " + rotateY;
 
     card.style.transform = `perspective(500px) rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
-}
+};
 
 function cardBack(event) {
     card.style.transform = `perspective(500px) rotateX(0deg) rotateY(0deg)`;
     
     cardTransition();
-}
+};
 
 function cardTransition() {
     clearInterval(card.transitionId);
@@ -37,8 +37,8 @@ function cardTransition() {
     card.transitionId = setTimeout(() => {
         card.style.transition = "";
     }, 400 );
-}
+};
 
 function cardEnter(event) {
     cardTransition();
-}
+};
