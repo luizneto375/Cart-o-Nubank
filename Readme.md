@@ -22,3 +22,5 @@
 - <img width="257" alt="image" src="https://github.com/luizneto375/Cart-o-Nubank/assets/114784434/31a8a0dc-6d76-4bbe-aed0-190856bb91d9">
 
 OBS: pegamos essas posições para podermos fazer a nossa animação que vai ser, basicamente feito em torno do eixo central 
+
+<img width="264" alt="image" src="https://github.com/luizneto375/Cart-o-Nubank/assets/114784434/691b3eee-0798-43a1-91a1-28882c07edbf">
