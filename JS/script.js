@@ -1,6 +1,6 @@
 const card = document.querySelector(".container");
 
-card.addEventListener("mousemove", cardMovimneto);
+card.addEventListener("mouseout", cardMovimneto);
 
 function cardMovimneto(event) {
     const cardWidth = card.offsetWidth;
